@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @syedsualehabbas
-- 👀 I’m interested in robotics & Artificial Intelligence
+- 👀 I’m interested in Robotics & Artificial Intelligence
 - 🌱 I’m currently learning core Electrical Engineering
 - 📫 Reach me via gmail: sualehabbas.6981@gmail.com
